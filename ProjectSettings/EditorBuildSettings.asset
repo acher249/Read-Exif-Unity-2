@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Nurface/MetadataInspector/Demo/Demo_Metadata.unity
+    path: Assets/0_Nurface/MetadataInspector/Demo/Demo_Metadata.unity
     guid: 63c2a7422cf9ae344979122d5a0a79ee
   m_configObjects: {}
